@@ -1,0 +1,1 @@
+// Full React App with routing and styled pages placeholder
